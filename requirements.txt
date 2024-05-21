@@ -1,0 +1,5 @@
+monai-generative
+matplotlib
+tqdm
+lpips
+scikit-learn
