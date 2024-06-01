@@ -3,3 +3,4 @@ matplotlib
 tqdm
 lpips
 scikit-learn
+torchsummary
